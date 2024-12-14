@@ -1,0 +1,2 @@
+Circle[centerX=0.0, centerY=0.0, radius=5.0, fill=0xff0000ff]
+Rectangle[x=123.0, y=151.0, width=200.0, height=100.0, fill=0x000000ff]

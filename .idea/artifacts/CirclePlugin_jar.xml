@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CirclePlugin:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CirclePlugin_jar</output-path>
+    <root id="archive" name="paintIPR1.jar">
+      <element id="dir-copy" path="$PROJECT_DIR$/../../curcleP" />
+    </root>
+  </artifact>
+</component>
